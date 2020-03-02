@@ -24,3 +24,5 @@ Currently the system includes the following services:
    http://localhost:8080/index
 5. Indexed documents will be created in the local workspace inside index folder.
 
+<b>Note: Code control flow starts from SearchEngineController.java in com.example.springboot package</b>
+
